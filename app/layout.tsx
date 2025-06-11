@@ -10,8 +10,8 @@ import ToastProvider from "@/providers/toast-provider";
 const font = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ecommerce Store",
-  description: "Modern ecommerce store built with Next.js",
+  title: "Modern Store - Premium Ecommerce Experience",
+  description: "Discover premium products with our modern ecommerce store built with Next.js 15",
 };
 
 export default function RootLayout({
